@@ -16,7 +16,7 @@ alias saudessd='smartctl -a disk3'
 alias limparzsh='sudo rm -rf /private/var/log/asl/*.asl'
 alias home="~"
 alias naodormir="pmset noidle"
-alias backupaliases='cp /Users/deloam/.oh-my-zsh/custom/aliases.zsh . && git add aliases.zsh && git commit -m "novo arquivo atualizado" && git push origin main'
+alias backupaliases='cp /Users/deloam/.oh-my-zsh/custom/aliases.zsh . && git add aliases.zsh && git commit -m "novo arquivo atualizado" && git push origin master'
 
 
 
